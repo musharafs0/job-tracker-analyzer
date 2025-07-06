@@ -31,13 +31,6 @@ A Python + Streamlit web app to manage and analyze your job applications in one 
 
 1. Open terminal or PowerShell
 2. Navigate to the project folder:
-   ```bash
+   
+bash
    cd job-tracker-analyzer
-3.python main.py
-
-
-## Streamlit Web App Version
-
-1.pip install -r requirements.txt
-2.streamlit run job_tracker_app.py
-Your browser will open the app
