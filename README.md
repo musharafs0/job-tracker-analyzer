@@ -1,4 +1,3 @@
-
 # 📋 Job Tracker & Application Analyzer
 
 A Python + Streamlit web app to manage and analyze your job applications in one place.
@@ -28,7 +27,17 @@ A Python + Streamlit web app to manage and analyze your job applications in one 
 
 ## 📦 Run Locally
 
-### ▶ CLI Version:
-```bash
-python main.py
+### ▶ CLI Version (Text-based)
 
+1. Open terminal or PowerShell
+2. Navigate to the project folder:
+   ```bash
+   cd job-tracker-analyzer
+3.python main.py
+
+
+## Streamlit Web App Version
+
+1.pip install -r requirements.txt
+2.streamlit run job_tracker_app.py
+Your browser will open the app
