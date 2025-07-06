@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 import os
-from analysis.analyzer import show_summary,show_status_chart, show_platform_chart
+from analyzer import show_summary,show_status_chart, show_platform_chart
 
 
 def add_application():
